@@ -1,2 +1,2 @@
 # load-test-session
-load test tool for resin sessions
+Resin load test tool for session replication verification under load
