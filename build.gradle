@@ -9,7 +9,6 @@ allprojects {
 
 project(':tester') {
   apply plugin: 'application'
-
 }
 
 project(':webapp') {
